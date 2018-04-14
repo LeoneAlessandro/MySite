@@ -1,5 +1,5 @@
 <html>
 <body>
-    <p><h5><it> Work in progress. </it></h5></p>
+    <p><h5><del> Work in progress. </del></h5></p>
   </body>
 </html>
