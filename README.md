@@ -1,6 +1,6 @@
 <html>
-  <head> My Site </head>
+  <head> <title> My Site </title> </head>
   <body>
-    <p><h1> Working in progress. </h1></p>
+    <p><h5><del> Working in progress. </del></h5></p>
   </body>
 </html>
